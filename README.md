@@ -91,10 +91,11 @@ Therefore, only revenue-related insights (not profitability) can be derived.
   - Purchase activity peaked mid-month and declined toward the month’s end.  
 
 ### 💡 Recommendations
-- Target **promotions and vouchers** for products under 500 USD to capture immediate buyers.  
+- Target **promotions and vouchers** for products priced between 500–1000 USD to capture immediate buyers.  
+- Improve price display accuracy to ensure that monitored prices include VAT and additional fees.  
 - Focus **marketing campaigns during lunch and evening peak hours** to maximise conversion.  
-- Encourage basket-to-purchase conversion with **reminder emails or discount nudges** for high-price items.  
-- Expand product variety and stock in **smartphone and electronics** categories, as they dominate traffic and sales.  
+- Encourage basket-to-purchase conversion with **reminder emails or discount nudges** for items whose **time in cart** is shorter than the average purchase decision time.  
+- Collaborate with sellers to expand product variety and stock in **technology and home appliances** categories.   
 
 ---
 
